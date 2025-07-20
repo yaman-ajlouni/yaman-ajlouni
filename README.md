@@ -31,7 +31,7 @@ Here are some of the most notable projects I've developed or contributed to:
 - **Languages**: JavaScript, HTML5, CSS3
 - **Frameworks**: React.js, Tailwind CSS, Bootstrap
 - **Tools**: Git, GitHub, VS Code, Axios, REST APIs, Redux, Redux Toolkit
-- **Concepts**: Responsive Design, SPA, Component Reusability, CEO optimization
+- **Concepts**: Responsive Design, SPA, Component Reusability, SEO
 
 ---
 
