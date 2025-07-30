@@ -1,4 +1,4 @@
-# 👨‍💻 Yaman Ajlouni
+# Yaman Ajlouni
 
 **Front-End Web Developer | React.js Specialist**  
 📍 Based in Damascus, Syria
